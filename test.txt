@@ -1,2 +1,4 @@
 Menambahkan fitur yang tidak ada pada cabang induk
 
+sekarang di cabang release akan merge ke cabang master
+
